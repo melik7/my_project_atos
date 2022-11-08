@@ -14,11 +14,11 @@ def hangman():
     
     #Mot à rechercher choisit aleatoirement
     word_to_find = words[randint(0,10)]
-
+    cpt=0
+    
     while(cpt<len(word_to_find)):
         #Initialisation des variables 
         result=[]
-        cpt=0
         index=[]
 
         letter = input("Veuillez choisir une lettre")
