@@ -1,3 +1,4 @@
 Salut, comment vas-tu ? C'est cool d'apprendre git.
 cava bien et toi ? 
 ça va aussi, quel temps fait-il chez toi ?
+Il fait tres beau et il semblerait que tout fonctionne
