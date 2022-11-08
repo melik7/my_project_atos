@@ -3,4 +3,8 @@ cava bien et toi ?
 ça va aussi, quel temps fait-il chez toi ?
 Il fait tres beau et il semblerait que tout fonctionne
 Nouvel essai 
+<<<<<<< HEAD
 nouvelle phrase a ajouter 
+=======
+Dans le nord il fait froid et gris aujourd'hui.
+>>>>>>> 1493f275c74aff26a6577e1b552ce35c9092de66
