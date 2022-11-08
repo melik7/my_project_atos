@@ -1,4 +1,8 @@
 Salut, comment vas-tu ? C'est cool d'apprendre git.
 cava bien et toi ? 
 ça va aussi, quel temps fait-il chez toi ?
+<<<<<<< HEAD
 Il fait tres beau et il semblerait que tout fonctionne
+=======
+les ajouts de la branche dev qui vont etre mergé sur main 
+>>>>>>> 6b65760f0df8070d72a7853bc5bf2b289f644866
